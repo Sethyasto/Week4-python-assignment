@@ -1,0 +1,13 @@
+Hello, World!
+This is a sample text file for Python file handling.
+We'll use this to demonstrate reading and writing files.
+
+Line 1: Python is awesome!
+Line 2: File operations are important.
+Line 3: Don't forget error handling!
+
+The quick brown fox jumps over the lazy dog.
+1234567890
+Special characters: !@#$%^&*()
+
+End of file.
